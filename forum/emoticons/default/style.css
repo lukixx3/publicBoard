@@ -1,0 +1,125 @@
+.emoticon {
+    background: url('./images/static.png') no-repeat;
+    display: -moz-inline-stack;
+    display: inline-block;
+    font-size: 19px;
+    height: 19px;
+    vertical-align: top;
+    width: 19px;
+}
+
+.emoticon span {
+    display: none;
+}
+
+.emoticon.e_alien {
+    background-position: -0px -0px;
+}
+
+.emoticon.e_angel {
+    background-position: -19px -0px;
+}
+
+.emoticon.e_anglesad {
+    background-position: -38px -0px;
+}
+
+.emoticon.e_anglesmile {
+    background-position: -57px -0px;
+}
+
+.emoticon.e_angry {
+    background-position: -76px -0px;
+}
+
+.emoticon.e_bignose {
+    background-position: -0px -19px;
+}
+
+.emoticon.e_bunnyteeth {
+    background-position: -19px -19px;
+}
+
+.emoticon.e_confused {
+    background-position: -38px -19px;
+}
+
+.emoticon.e_cringe {
+    background-position: -57px -19px;
+}
+
+.emoticon.e_cry {
+    background-position: -76px -19px;
+}
+
+.emoticon.e_crylaugh {
+    background-position: -0px -38px;
+}
+
+.emoticon.e_devil {
+    background-position: -19px -38px;
+}
+
+.emoticon.e_eek {
+    background-position: -38px -38px;
+}
+
+.emoticon.e_embarrassed {
+    background-position: -57px -38px;
+}
+
+.emoticon.e_fail {
+    background: url('./images/fail.gif') no-repeat;
+}
+
+.emoticon.e_fear {
+    background-position: -76px -38px;
+}
+
+.emoticon.e_grin {
+    background-position: -0px -57px;
+}
+
+.emoticon.e_nod {
+    background: url('./images/nod.gif') no-repeat;
+}
+
+.emoticon.e_plain {
+    background-position: -19px -57px;
+}
+
+.emoticon.e_sad {
+    background-position: -38px -57px;
+}
+
+.emoticon.e_shades {
+    background-position: -57px -57px;
+}
+
+.emoticon.e_shock {
+    background-position: -76px -57px;
+}
+
+.emoticon.e_sleep {
+    background-position: -0px -76px;
+}
+
+.emoticon.e_smile {
+    background-position: -19px -76px;
+}
+
+.emoticon.e_tongue {
+    background-position: -38px -76px;
+}
+
+.emoticon.e_unsure {
+    background-position: -57px -76px;
+}
+
+.emoticon.e_wink {
+    background-position: -76px -76px;
+}
+
+.emoticon.e_wrong {
+    background: url('./images/wrong.gif') no-repeat;
+}

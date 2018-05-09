@@ -1,0 +1,89 @@
+.emoticon {
+    background: url('./images/static.png') no-repeat;
+    display: -moz-inline-stack;
+    display: inline-block;
+    font-size: 12px;
+    height: 12px;
+    vertical-align: top;
+    width: 12px;
+}
+
+.emoticon span {
+    display: none;
+}
+
+.emoticon.e_angry {
+    background-position: -0px -0px;
+}
+
+.emoticon.e_confused {
+    background-position: -12px -0px;
+}
+
+.emoticon.e_cry {
+    background-position: -24px -0px;
+}
+
+.emoticon.e_embarrassed {
+    background-position: -36px -0px;
+}
+
+.emoticon.e_fail {
+    background-position: -0px -12px;
+}
+
+.emoticon.e_grin {
+    background-position: -12px -12px;
+}
+
+.emoticon.e_grumpy {
+    background-position: -24px -12px;
+}
+
+.emoticon.e_happycry {
+    background-position: -36px -12px;
+}
+
+.emoticon.e_horror {
+    background-position: -0px -24px;
+}
+
+.emoticon.e_plain {
+    background-position: -12px -24px;
+}
+
+.emoticon.e_rolleyes {
+    background-position: -24px -24px;
+}
+
+.emoticon.e_sad {
+    background-position: -36px -24px;
+}
+
+.emoticon.e_shades {
+    background-position: -0px -36px;
+}
+
+.emoticon.e_shock {
+    background-position: -12px -36px;
+}
+
+.emoticon.e_smile {
+    background-position: -24px -36px;
+}
+
+.emoticon.e_tache {
+    background-position: -36px -36px;
+}
+
+.emoticon.e_tongue {
+    background-position: -0px -48px;
+}
+
+.emoticon.e_unsure {
+    background-position: -12px -48px;
+}
+
+.emoticon.e_wink {
+    background-position: -24px -48px;
+}

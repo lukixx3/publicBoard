@@ -1,0 +1,201 @@
+.emoticon {
+    background: url('./images/static.png') no-repeat;
+    display: -moz-inline-stack;
+    display: inline-block;
+    font-size: 13px;
+    height: 13px;
+    vertical-align: top;
+    width: 15px;
+}
+
+.emoticon span {
+    display: none;
+}
+
+.emoticon.e_angry {
+    background-position: -0px -0px;
+}
+
+.emoticon.e_beer {
+    background-position: -15px -0px;
+}
+
+.emoticon.e_bounce {
+    background: url('./images/bounce.gif') no-repeat;
+}
+
+.emoticon.e_boy {
+    background-position: -30px -0px;
+}
+
+.emoticon.e_brokenheart {
+    background-position: -45px -0px;
+}
+
+.emoticon.e_cat {
+    background-position: -60px -0px;
+}
+
+.emoticon.e_cheeky {
+    background-position: -75px -0px;
+}
+
+.emoticon.e_cheer {
+    background: url('./images/cheer.gif') no-repeat;
+}
+
+.emoticon.e_clock {
+    background-position: -0px -13px;
+}
+
+.emoticon.e_confused {
+    background-position: -15px -13px;
+}
+
+.emoticon.e_cow {
+    background-position: -30px -13px;
+}
+
+.emoticon.e_cowboy {
+    background-position: -45px -13px;
+}
+
+.emoticon.e_cringe {
+    background-position: -60px -13px;
+}
+
+.emoticon.e_cry {
+    background-position: -75px -13px;
+}
+
+.emoticon.e_dance {
+    background: url('./images/dance.gif') no-repeat;
+}
+
+.emoticon.e_drink {
+    background-position: -0px -26px;
+}
+
+.emoticon.e_eek {
+    background-position: -15px -26px;
+}
+
+.emoticon.e_envelope {
+    background-position: -30px -26px;
+}
+
+.emoticon.e_fail {
+    background-position: -45px -26px;
+}
+
+.emoticon.e_fish {
+    background-position: -60px -26px;
+}
+
+.emoticon.e_flower {
+    background-position: -75px -26px;
+}
+
+.emoticon.e_girl {
+    background-position: -0px -39px;
+}
+
+.emoticon.e_grin {
+    background-position: -15px -39px;
+}
+
+.emoticon.e_happy {
+    background-position: -30px -39px;
+}
+
+.emoticon.e_heart {
+    background-position: -45px -39px;
+}
+
+.emoticon.e_horror {
+    background-position: -60px -39px;
+}
+
+.emoticon.e_kiss {
+    background-position: -75px -39px;
+}
+
+.emoticon.e_lightbulb {
+    background-position: -0px -52px;
+}
+
+.emoticon.e_monkey {
+    background-position: -15px -52px;
+}
+
+.emoticon.e_music {
+    background-position: -30px -52px;
+}
+
+.emoticon.e_nosmoke {
+    background-position: -45px -52px;
+}
+
+.emoticon.e_plain {
+    background-position: -60px -52px;
+}
+
+.emoticon.e_rainbow {
+    background-position: -75px -52px;
+}
+
+.emoticon.e_sad {
+    background-position: -0px -65px;
+}
+
+.emoticon.e_shades {
+    background-position: -15px -65px;
+}
+
+.emoticon.e_shock {
+    background-position: -30px -65px;
+}
+
+.emoticon.e_sidelook {
+    background-position: -45px -65px;
+}
+
+.emoticon.e_smile {
+    background-position: -60px -65px;
+}
+
+.emoticon.e_smile-big-nose {
+    background-position: -75px -65px;
+}
+
+.emoticon.e_smoke {
+    background-position: -0px -78px;
+}
+
+.emoticon.e_star {
+    background-position: -15px -78px;
+}
+
+.emoticon.e_tea {
+    background-position: -30px -78px;
+}
+
+.emoticon.e_tears {
+    background-position: -45px -78px;
+}
+
+.emoticon.e_tongue {
+    background-position: -60px -78px;
+}
+
+.emoticon.e_unsure {
+    background-position: -75px -78px;
+}
+
+.emoticon.e_wink {
+    background-position: -0px -91px;
+}
+
+.emoticon.e_woot {
+    background: url('./images/woot.gif') no-repeat;
+}

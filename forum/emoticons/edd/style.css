@@ -1,0 +1,157 @@
+.emoticon {
+    background: url('./images/static.png') no-repeat;
+    display: -moz-inline-stack;
+    display: inline-block;
+    font-size: 12px;
+    height: 12px;
+    vertical-align: top;
+    width: 12px;
+}
+
+.emoticon span {
+    display: none;
+}
+
+.emoticon.e_angry {
+    background-position: -0px -0px;
+}
+
+.emoticon.e_beer {
+    background-position: -0px -363px;
+}
+
+.emoticon.e_boy {
+    background-position: -0px -375px;
+}
+
+.emoticon.e_broken_heart {
+    background-position: -0px -12px;
+}
+
+.emoticon.e_bulb {
+    background-position: -0px -22px;
+}
+
+.emoticon.e_cat {
+    background-position: -0px -34px;
+}
+
+.emoticon.e_confused {
+    background-position: -0px -45px;
+}
+
+.emoticon.e_cry {
+    background-position: -0px -57px;
+}
+
+.emoticon.e_eek {
+    background-position: -0px -69px;
+}
+
+.emoticon.e_envelope {
+    background-position: -0px -81px;
+}
+
+.emoticon.e_flower {
+    background-position: -0px -387px;
+}
+
+.emoticon.e_girl {
+    background-position: -0px -411px;
+}
+
+.emoticon.e_goth {
+    background-position: -0px -91px;
+}
+
+.emoticon.e_grin {
+    background-position: -0px -103px;
+}
+
+.emoticon.e_grin_dead {
+    background-position: -0px -115px;
+}
+
+.emoticon.e_happy {
+    background-position: -0px -127px;
+}
+
+.emoticon.e_heartbeat {
+    background-position: -0px -139px;
+}
+
+.emoticon.e_horror {
+    background-position: -0px -149px;
+}
+
+.emoticon.e_jesus {
+    background-position: -0px -161px;
+}
+
+.emoticon.e_kiss {
+    background-position: -0px -173px;
+}
+
+.emoticon.e_music_note {
+    background-position: -0px -399px;
+}
+
+.emoticon.e_phone {
+    background-position: -0px -185px;
+}
+
+.emoticon.e_plain {
+    background-position: -0px -197px;
+}
+
+.emoticon.e_sad {
+    background-position: -0px -209px;
+}
+
+.emoticon.e_shades {
+    background-position: -0px -221px;
+}
+
+.emoticon.e_sleepyhead {
+    background-position: -0px -233px;
+}
+
+.emoticon.e_smile {
+    background-position: -0px -245px;
+}
+
+.emoticon.e_smile_big_nose {
+    background-position: -0px -257px;
+}
+
+.emoticon.e_smile_dead {
+    background-position: -0px -269px;
+}
+
+.emoticon.e_star {
+    background-position: -0px -281px;
+}
+
+.emoticon.e_tea {
+    background-position: -0px -352px;
+}
+
+.emoticon.e_thumbs_down {
+    background-position: -0px -293px;
+}
+
+.emoticon.e_thumbs_up {
+    background-position: -0px -304px;
+}
+
+.emoticon.e_tongue {
+    background-position: -0px -316px;
+}
+
+.emoticon.e_unsure {
+    background-position: -0px -328px;
+}
+
+.emoticon.e_wink {
+    background-position: -0px -340px;
+}

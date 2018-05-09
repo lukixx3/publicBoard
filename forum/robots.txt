@@ -1,0 +1,112 @@
+# ======================================================================
+# Copyright Project Beehive Forum 2002
+#
+# This file is part of Beehive Forum.
+#
+# Beehive Forum is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+#
+# Beehive Forum is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with Beehive; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307
+# USA
+# ======================================================================
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow: /forum/admin.php
+Disallow: /forum/admin_banned.php
+Disallow: /forum/admin_default_forum_settings.php
+Disallow: /forum/admin_folders.php
+Disallow: /forum/admin_folder_add.php
+Disallow: /forum/admin_folder_edit.php
+Disallow: /forum/admin_forums.php
+Disallow: /forum/admin_forum_access.php
+Disallow: /forum/admin_forum_links.php
+Disallow: /forum/admin_forum_settings.php
+Disallow: /forum/admin_forum_set_passwd.php
+Disallow: /forum/admin_main.php
+Disallow: /forum/admin_make_style.php
+Disallow: /forum/admin_menu.php
+Disallow: /forum/admin_post_approve.php
+Disallow: /forum/admin_post_stats.php
+Disallow: /forum/admin_prof_items.php
+Disallow: /forum/admin_prof_sect.php
+Disallow: /forum/admin_rss_feeds.php
+Disallow: /forum/admin_startpage.php
+Disallow: /forum/admin_user.php
+Disallow: /forum/admin_users.php
+Disallow: /forum/admin_user_groups.php
+Disallow: /forum/admin_user_groups_add.php
+Disallow: /forum/admin_user_groups_edit.php
+Disallow: /forum/admin_user_groups_edit_users.php
+Disallow: /forum/admin_viewlog.php
+Disallow: /forum/admin_visitor_log.php
+Disallow: /forum/admin_wordfilter.php
+Disallow: /forum/attachments.php
+Disallow: /forum/change_pw.php
+Disallow: /forum/confirm_email.php
+Disallow: /forum/create_poll.php
+Disallow: /forum/delete.php
+Disallow: /forum/display_emoticons.php
+Disallow: /forum/edit.php
+Disallow: /forum/edit_attachments.php
+Disallow: /forum/edit_email.php
+Disallow: /forum/edit_password.php
+Disallow: /forum/edit_poll.php
+Disallow: /forum/edit_prefs.php
+Disallow: /forum/edit_profile.php
+Disallow: /forum/edit_relations.php
+Disallow: /forum/edit_signature.php
+Disallow: /forum/edit_subscriptions.php
+Disallow: /forum/edit_wordfilter.php
+Disallow: /forum/email.php
+Disallow: /forum/folder_options.php
+Disallow: /forum/folder_subscriptions.php
+Disallow: /forum/font_size.php
+Disallow: /forum/forgot_pw.php
+Disallow: /forum/forum_options.php
+Disallow: /forum/forum_password.php
+Disallow: /forum/json.php
+Disallow: /forum/ldelete.php
+Disallow: /forum/ledit.php
+Disallow: /forum/links_add.php
+Disallow: /forum/links_folder_edit.php
+Disallow: /forum/llogon.php
+Disallow: /forum/llogout.php
+Disallow: /forum/logon.php
+Disallow: /forum/logout.php
+Disallow: /forum/lpm.php
+Disallow: /forum/lpm_edit.php
+Disallow: /forum/lpm_write.php
+Disallow: /forum/lpost.php
+Disallow: /forum/mods_list.php
+Disallow: /forum/pm.php
+Disallow: /forum/pm_edit.php
+Disallow: /forum/pm_folders.php
+Disallow: /forum/pm_messages.php
+Disallow: /forum/pm_options.php
+Disallow: /forum/pm_write.php
+Disallow: /forum/post.php
+Disallow: /forum/register.php
+Disallow: /forum/search.php
+Disallow: /forum/search_popup.php
+Disallow: /forum/thread_options.php
+Disallow: /forum/user.php
+Disallow: /forum/user_folder.php
+Disallow: /forum/user_font.php
+Disallow: /forum/user_main.php
+Disallow: /forum/user_menu.php
+Disallow: /forum/user_rel.php
+Disallow: /forum/user_stats.php
+Disallow: /forum/visitor_log.php
+Allow: /
